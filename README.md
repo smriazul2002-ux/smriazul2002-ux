@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header-neon.svg" width="100%" alt="Riazul — cybersecurity portfolio. Python projects, Linux practice and networking. Based in Kuala Lumpur, Malaysia." />
+  <img src="./profile-header-blink.svg" width="100%" alt="Riazul — cybersecurity portfolio. Python projects, Linux practice and networking. Based in Kuala Lumpur, Malaysia." />
 </p>
 
 <p align="center">
