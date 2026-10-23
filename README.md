@@ -9,7 +9,11 @@
   <a href="#learning-notebook">LEARNING LAB</a>
 </p>
 
-## About
+<p align="center"><img src="./circuit-divider.svg" width="100%" alt="" /></p>
+
+<a name="about"></a>
+
+<h2><img src="./section-about.svg" width="100%" alt="ABOUT ME" /></h2>
 
 I'm **Shikdar Mohammad Riazul**, exploring the intersection of **cybersecurity, Python, and Linux**. I build projects around safer online experiences and develop my understanding of systems through networking practice.
 
@@ -19,7 +23,9 @@ I'm **Shikdar Mohammad Riazul**, exploring the intersection of **cybersecurity, 
   <img src="./profile-skills.svg" width="100%" alt="Build: Python, Streamlit and machine learning public projects. Explore: Kali Linux and Ubuntu hands-on practice. Connect: TCP/IP, DNS and SSH networking labs." />
 </p>
 
-## Selected work
+<a name="selected-work"></a>
+
+<h2><img src="./section-work.svg" width="100%" alt="SELECTED WORK" /></h2>
 
 Two public projects, connecting online safety with security-focused web design.
 
@@ -44,7 +50,9 @@ These public repositories belong to the same project area:
 
 </details>
 
-### Project previews
+<a name="project-previews"></a>
+
+<h2><img src="./section-previews.svg" width="100%" alt="PROJECT PREVIEWS" /></h2>
 
 <p align="center">
   <a href="https://cyberbullyinapp-d427c.web.app/"><img src="https://raw.githubusercontent.com/smriazul2002-ux/cyberbullying-app/main/demo-login.png" width="49%" alt="Actual Cyberbullying Shield public demo login screen" /></a>
@@ -58,11 +66,11 @@ These public repositories belong to the same project area:
 
 <sub>Actual interface captures, 24 October 2026: public login screen and locally rendered CCTV page. Authenticated app workflows were not tested.</sub>
 
-## Toolkit & practice
+<a name="toolkit--practice"></a>
 
-**Building with** &nbsp; `Python` · `Streamlit` · `Machine Learning` · `HTML` · `CSS`
+<h2><img src="./section-toolkit.svg" width="100%" alt="TOOLKIT &amp; PRACTICE" /></h2>
 
-**Practicing in labs** &nbsp; `Kali Linux` · `Ubuntu` · `TCP/IP` · `DNS` · `SSH` · `Nmap` · `Wireshark`
+<p align="center"><img src="./toolkit-badges.svg" width="100%" alt="Building with Python, Streamlit, machine learning, HTML and CSS. Practicing Kali Linux, Ubuntu, TCP/IP, DNS, SSH, Nmap and Wireshark in labs." /></p>
 
 <details>
 <summary><strong>How these skills connect to my work</strong></summary>
@@ -77,7 +85,9 @@ My learning interests include network security, web application security, and Py
 
 </details>
 
-## Learning notebook
+<a name="learning-notebook"></a>
+
+<h2><img src="./section-labs.svg" width="100%" alt="LEARNING NOTEBOOK" /></h2>
 
 Projects and labs I have yet to publish. **Code / write-ups are not yet uploaded**, and completion status will be documented when they are published.
 
@@ -96,13 +106,15 @@ Security practice belongs in owned environments and explicitly authorized labs.
 
 </details>
 
-## Connect
+<a name="connect"></a>
+
+<h2><img src="./section-connect.svg" width="100%" alt="LET’S CONNECT" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shikdar-mohammad-riazul-925684375"><img src="./linkedin-connect.svg" width="250" alt="Connect with Shikdar Mohammad Riazul on LinkedIn" /></a>
 </p>
 
-<br />
+<p align="center"><img src="./circuit-divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
   <img src="./profile-footer.svg" width="100%" alt="Learn with intent. Build with care. Python, Linux and security." />
