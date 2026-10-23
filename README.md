@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Riazul — cybersecurity portfolio. Python projects, Linux practice and networking. Based in Kuala Lumpur, Malaysia." />
+  <img src="./profile-header-neon.svg" width="100%" alt="Riazul — cybersecurity portfolio. Python projects, Linux practice and networking. Based in Kuala Lumpur, Malaysia." />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@ I'm **Shikdar Mohammad Riazul**, exploring the intersection of **cybersecurity, 
 Two public projects, connecting online safety with security-focused web design.
 
 <p align="center">
-  <a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying.svg" width="49%" alt="Cyberbullying Detection — public Python, Streamlit and machine learning application exploring harmful-text classification. Open repository." /></a>
-  <a href="https://github.com/smriazul2002-ux/smart-cctv-website"><img src="./project-cctv.svg" width="49%" alt="Smart CCTV Website — public HTML and CSS academic landing page for a smart surveillance concept. Open repository." /></a>
+  <a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying-neon.svg" width="49%" alt="Cyberbullying Detection — public Python, Streamlit and machine learning application exploring harmful-text classification. Open repository." /></a>
+  <a href="https://github.com/smriazul2002-ux/smart-cctv-website"><img src="./project-cctv-neon.svg" width="49%" alt="Smart CCTV Website — public HTML and CSS academic landing page for a smart surveillance concept. Open repository." /></a>
 </p>
 
 <p align="center">
