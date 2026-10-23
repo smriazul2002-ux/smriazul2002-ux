@@ -1,40 +1,42 @@
 <p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Shikdar Mohammad Riazul — Cybersecurity, Python and Linux. Building practical projects. Learning how to secure them." />
+  <img src="./profile-header.svg" width="100%" alt="Riazul — cybersecurity portfolio. Python projects, Linux practice and networking. Based in Kuala Lumpur, Malaysia." />
 </p>
 
 <p align="center">
-  <a href="#selected-public-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#skills--practice">Skills &amp; practice</a> &nbsp; / &nbsp;
-  <a href="#project-notebook">Project notebook</a>
+  <a href="#about">ABOUT</a> &nbsp; ✦ &nbsp;
+  <a href="#selected-work">SELECTED WORK</a> &nbsp; ✦ &nbsp;
+  <a href="#toolkit--practice">TOOLKIT</a> &nbsp; ✦ &nbsp;
+  <a href="#learning-notebook">LEARNING LAB</a>
 </p>
 
-## Security starts with understanding systems.
+## About
 
-I'm **Riazul**, based in **Kuala Lumpur, Malaysia**. I build Python projects and explore cybersecurity through Linux and networking practice. My interests connect **safer online experiences**, **security awareness**, and **practical system fundamentals**.
+I'm **Shikdar Mohammad Riazul**, exploring the intersection of **cybersecurity, Python, and Linux**. I build projects around safer online experiences and develop my understanding of systems through networking practice.
 
-This profile brings together my public code and the projects I have yet to publish. I'm developing my skills through building, experimenting, and documenting what I learn.
+**My approach:** understand the fundamentals, build something useful, and document the lessons.
 
-## Selected public work
+<p align="center">
+  <img src="./profile-skills.svg" width="100%" alt="Build: Python, Streamlit and machine learning public projects. Explore: Kali Linux and Ubuntu hands-on practice. Connect: TCP/IP, DNS and SSH networking labs." />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying.svg" width="100%" alt="Cyberbullying Detection — public Python, machine learning and Streamlit project. Explore repository." /></a>
-<p><a href="https://github.com/smriazul2002-ux/cyberbullying-app"><strong>View cyberbullying-app →</strong></a></p>
-<p>Exploring automated detection of harmful online text, connecting text classification with online safety.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/smriazul2002-ux/smart-cctv-website"><img src="./project-cctv.svg" width="100%" alt="Smart CCTV Website — public HTML and CSS academic landing page. Explore repository." /></a>
-<p><a href="https://github.com/smriazul2002-ux/smart-cctv-website"><strong>View smart-cctv-website →</strong></a></p>
-<p>An HTML and CSS landing page presenting a smart surveillance concept, built for an academic assignment.</p>
-</td>
-</tr>
-</table>
+## Selected work
+
+Two public projects, connecting online safety with security-focused web design.
+
+<p align="center">
+  <a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying.svg" width="49%" alt="Cyberbullying Detection — public Python, Streamlit and machine learning application exploring harmful-text classification. Open repository." /></a>
+  <a href="https://github.com/smriazul2002-ux/smart-cctv-website"><img src="./project-cctv.svg" width="49%" alt="Smart CCTV Website — public HTML and CSS academic landing page for a smart surveillance concept. Open repository." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/smriazul2002-ux/cyberbullying-app">Cyberbullying Detection ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/smriazul2002-ux/smart-cctv-website">Smart CCTV Website ↗</a>
+</p>
 
 <details>
-<summary><strong>More public repositories · cyberbullying project family</strong></summary>
+<summary><strong>Explore the cyberbullying project family</strong></summary>
 
-Related repositories are grouped here as part of the same project area:
+These public repositories belong to the same project area:
 
 - [cyberbullying-backend](https://github.com/smriazul2002-ux/cyberbullying-backend) — Python repository.
 - [cyberbullying-backend-v2](https://github.com/smriazul2002-ux/cyberbullying-backend-v2) — Jupyter Notebook repository.
@@ -42,37 +44,46 @@ Related repositories are grouped here as part of the same project area:
 
 </details>
 
-## Skills & practice
+## Toolkit & practice
+
+**Building with** &nbsp; `Python` · `Streamlit` · `Machine Learning` · `HTML` · `CSS`
+
+**Practicing in labs** &nbsp; `Kali Linux` · `Ubuntu` · `TCP/IP` · `DNS` · `SSH` · `Nmap` · `Wireshark`
+
+<details>
+<summary><strong>How these skills connect to my work</strong></summary>
 
 | Area | Current grounding |
 | :--- | :--- |
-| **Python** | Public cyberbullying application and related Python repositories. |
-| **Machine learning applications** | Harmful-text classification project; Streamlit interface and related notebook work. |
-| **HTML & CSS** | Public Smart CCTV landing page built for an academic assignment. |
-| **Linux** | Kali Linux and Ubuntu practice; lab notes are not yet published here. |
-| **Networking & security** | Practicing TCP/IP, DNS, SSH, Nmap and Wireshark in learning labs; public write-ups to follow. |
+| Python & machine learning applications | Public cyberbullying application and related Python / notebook repositories. |
+| HTML & CSS | Smart CCTV academic landing page. |
+| Linux & networking | Kali / Ubuntu learning labs; public write-ups are not yet uploaded. |
 
-**Learning direction:** network security, web application security, Python security tooling, and clear technical documentation.
+My learning interests include network security, web application security, and Python security tooling.
 
-## Project notebook
+</details>
 
-The following projects and labs are part of my learning work. **Their code or write-ups are not yet published on this public profile.** Implementation details and completion status will be documented when uploaded.
+## Learning notebook
 
-| Project / lab | Focus | Public availability |
-| :--- | :--- | :--- |
-| **Python Security Awareness Game** | Interactive security awareness learning | Not yet uploaded |
-| **Phishing Detection** | Exploring phishing identification | Not yet uploaded |
-| **Kali / Ubuntu Networking Labs** | Linux networking and security practice | Write-ups not yet uploaded |
-
-### Next documentation goals
-
-- Publish setup instructions, screenshots, and a short walkthrough for each project.
-- Explain detection methods, evaluation approach, and limitations where applicable.
-- Share reproducible lab notes with the environment, commands, observations, and lessons learned.
-
----
+Projects and labs I have yet to publish. **Code / write-ups are not yet uploaded**, and completion status will be documented when they are published.
 
 <p align="center">
-  <strong>Understand the system. Build with care. Keep learning.</strong><br />
-  <sub>Security practice belongs in owned environments and explicitly authorized labs.</sub>
+  <img src="./profile-notebook.svg" width="100%" alt="Not yet uploaded: Python Security Awareness Game — interactive learning; Phishing Detection — exploring phishing identification; Kali / Ubuntu Networking Labs — Linux and networking practice." />
+</p>
+
+<details>
+<summary><strong>What I want to document next</strong></summary>
+
+- **Security Awareness Game:** publish the code, setup steps, and a short walkthrough.
+- **Phishing Detection:** explain the method, evaluation approach, and limitations alongside the implementation.
+- **Linux & networking labs:** share the environment, commands, observations, and lessons learned.
+
+Security practice belongs in owned environments and explicitly authorized labs.
+
+</details>
+
+<br />
+
+<p align="center">
+  <img src="./profile-footer.svg" width="100%" alt="Learn with intent. Build with care. Python, Linux and security." />
 </p>
