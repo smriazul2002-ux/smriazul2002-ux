@@ -44,6 +44,20 @@ These public repositories belong to the same project area:
 
 </details>
 
+### Project previews
+
+<p align="center">
+  <a href="https://cyberbullyinapp-d427c.web.app/"><img src="https://raw.githubusercontent.com/smriazul2002-ux/cyberbullying-app/main/demo-login.png" width="49%" alt="Actual Cyberbullying Shield public demo login screen" /></a>
+  <a href="https://github.com/smriazul2002-ux/smart-cctv-website#readme"><img src="https://raw.githubusercontent.com/smriazul2002-ux/smart-cctv-website/main/website-preview.png" width="49%" alt="Actual Smart CCTV academic website rendered locally" /></a>
+</p>
+
+<p align="center">
+  <a href="https://cyberbullyinapp-d427c.web.app/">Open Cyberbullying Shield demo ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/smriazul2002-ux/smart-cctv-website#readme">CCTV setup &amp; project scope ↗</a>
+</p>
+
+<sub>Actual interface captures, 24 October 2026: public login screen and locally rendered CCTV page. Authenticated app workflows were not tested.</sub>
+
 ## Toolkit & practice
 
 **Building with** &nbsp; `Python` · `Streamlit` · `Machine Learning` · `HTML` · `CSS`
@@ -81,6 +95,12 @@ Projects and labs I have yet to publish. **Code / write-ups are not yet uploaded
 Security practice belongs in owned environments and explicitly authorized labs.
 
 </details>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shikdar-mohammad-riazul-925684375"><img src="./linkedin-connect.svg" width="250" alt="Connect with Shikdar Mohammad Riazul on LinkedIn" /></a>
+</p>
 
 <br />
 
