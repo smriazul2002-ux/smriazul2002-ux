@@ -1,127 +1,78 @@
+<p align="center">
+  <img src="./profile-header.svg" width="100%" alt="Shikdar Mohammad Riazul — Cybersecurity, Python and Linux. Building practical projects. Learning how to secure them." />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="#selected-public-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#skills--practice">Skills &amp; practice</a> &nbsp; / &nbsp;
+  <a href="#project-notebook">Project notebook</a>
+</p>
 
-# 👨‍💻 Mohammad Riazul Shikdar
+## Security starts with understanding systems.
 
-### 🔐 Cybersecurity Student | Ethical Hacking Enthusiast | Python Developer
+I'm **Riazul**, based in **Kuala Lumpur, Malaysia**. I build Python projects and explore cybersecurity through Linux and networking practice. My interests connect **safer online experiences**, **security awareness**, and **practical system fundamentals**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+My+Cybersecurity+World;Cybersecurity+%7C+Ethical+Hacking;Linux+%7C+Networking+%7C+Python;Learning+%7C+Building+%7C+Securing" alt="Typing Animation" />
+This profile brings together my public code and the projects I have yet to publish. I'm developing my skills through building, experimenting, and documenting what I learn.
 
-![Profile Views](https://komarev.com/ghpvc/?username=smriazul2002-ux&color=00ff88&style=flat-square)
+## Selected public work
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying.svg" width="100%" alt="Cyberbullying Detection — public Python, machine learning and Streamlit project. Explore repository." /></a>
+<p><a href="https://github.com/smriazul2002-ux/cyberbullying-app"><strong>View cyberbullying-app →</strong></a></p>
+<p>Exploring automated detection of harmful online text, connecting text classification with online safety.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/smriazul2002-ux/smart-cctv-website"><img src="./project-cctv.svg" width="100%" alt="Smart CCTV Website — public HTML and CSS academic landing page. Explore repository." /></a>
+<p><a href="https://github.com/smriazul2002-ux/smart-cctv-website"><strong>View smart-cctv-website →</strong></a></p>
+<p>An HTML and CSS landing page presenting a smart surveillance concept, built for an academic assignment.</p>
+</td>
+</tr>
+</table>
 
----
+<details>
+<summary><strong>More public repositories · cyberbullying project family</strong></summary>
 
-## 🛡️ About Me
+Related repositories are grouped here as part of the same project area:
 
-```python
-class CyberSecurityStudent:
-    name = "Mohammad Riazul Shikdar"
-    location = "Kuala Lumpur, Malaysia"
-    education = "Bachelor's in Cyber Security"
-    university = "Lincoln University College"
-    interests = [
-        "Ethical Hacking",
-        "Network Security",
-        "Penetration Testing",
-        "Python Automation",
-        "AI for Cybersecurity"
-    ]
+- [cyberbullying-backend](https://github.com/smriazul2002-ux/cyberbullying-backend) — Python repository.
+- [cyberbullying-backend-v2](https://github.com/smriazul2002-ux/cyberbullying-backend-v2) — Jupyter Notebook repository.
+- [Name-cyberbullying-app-Public-](https://github.com/smriazul2002-ux/Name-cyberbullying-app-Public-) — described as a TF-IDF and Logistic Regression detection app with Streamlit.
 
-    def mission(self):
-        return "Learn. Build. Secure. Repeat."
-```
+</details>
 
-- 🎓 Final-year Cybersecurity student in Malaysia
-- 🔍 Exploring Ethical Hacking and Penetration Testing
-- 🐧 Practicing Linux and Network Security
-- 🐍 Building Python-based Security Tools
-- 🧪 Learning through hands-on Security Labs
-- 🎯 Goal: Become a Cybersecurity Engineer
+## Skills & practice
 
----
+| Area | Current grounding |
+| :--- | :--- |
+| **Python** | Public cyberbullying application and related Python repositories. |
+| **Machine learning applications** | Harmful-text classification project; Streamlit interface and related notebook work. |
+| **HTML & CSS** | Public Smart CCTV landing page built for an academic assignment. |
+| **Linux** | Kali Linux and Ubuntu practice; lab notes are not yet published here. |
+| **Networking & security** | Practicing TCP/IP, DNS, SSH, Nmap and Wireshark in learning labs; public write-ups to follow. |
 
-## ⚡ Technical Skills
+**Learning direction:** network security, web application security, Python security tooling, and clear technical documentation.
 
-### 💻 Programming & Operating Systems
+## Project notebook
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+The following projects and labs are part of my learning work. **Their code or write-ups are not yet published on this public profile.** Implementation details and completion status will be documented when uploaded.
 
-### 🔐 Cybersecurity Tools
+| Project / lab | Focus | Public availability |
+| :--- | :--- | :--- |
+| **Python Security Awareness Game** | Interactive security awareness learning | Not yet uploaded |
+| **Phishing Detection** | Exploring phishing identification | Not yet uploaded |
+| **Kali / Ubuntu Networking Labs** | Linux networking and security practice | Write-ups not yet uploaded |
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+### Next documentation goals
 
-### 🌐 Areas of Interest
-
-`Network Security` `Web Application Security`
-`Vulnerability Assessment` `Penetration Testing`
-`TCP/IP` `DNS` `SSH` `Cyber Threat Detection`
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ Cyberbullying Detection
-AI-based exploration of detecting harmful online content.
-
-### 📹 Smart CCTV Website
-A web-based project exploring smart surveillance concepts.
-
-### 🐍 Python Security Projects
-Security awareness, phishing detection and automation experiments.
-
-### 🌐 Network Security Lab
-Hands-on Linux networking, SSH, Nmap and packet analysis.
+- Publish setup instructions, screenshots, and a short walkthrough for each project.
+- Explain detection methods, evaluation approach, and limitations where applicable.
+- Share reproducible lab notes with the environment, commands, observations, and lessons learned.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smriazul2002-ux&show_icons=true&theme=chartreuse-dark" height="170" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smriazul2002-ux&layout=compact&theme=chartreuse-dark" height="170" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=smriazul2002-ux&theme=dark&ring=00FF88&fire=00FF88" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎯 Current Learning Journey
-
-- [x] Linux Fundamentals
-- [x] Networking Fundamentals
-- [x] Nmap and Wireshark Basics
-- [x] SSH and Network Traffic Analysis
-- [ ] Advanced Web Application Security
-- [ ] SOC and Incident Response
-- [ ] Cloud Security
-- [ ] Advanced Penetration Testing
-
----
-
-## 🤝 Connect With Me
-
-📍 Kuala Lumpur, Malaysia
-
-💻 [GitHub](https://github.com/smriazul2002-ux)
-
----
-
-<div align="center">
-
-### 🔐 "Security is a continuous journey, not a destination."
-
-**Thanks for visiting my profile!**
-
-</div>
+<p align="center">
+  <strong>Understand the system. Build with care. Keep learning.</strong><br />
+  <sub>Security practice belongs in owned environments and explicitly authorized labs.</sub>
+</p>
