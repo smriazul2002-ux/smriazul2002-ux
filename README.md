@@ -27,7 +27,7 @@ I'm **Shikdar Mohammad Riazul**, exploring the intersection of **cybersecurity, 
 
 <h2><img src="./section-work.svg" width="100%" alt="SELECTED WORK" /></h2>
 
-Two public projects, connecting online safety with security-focused web design.
+Three public projects covering online safety, security-focused web design, and network segmentation.
 
 <p align="center">
   <a href="https://github.com/smriazul2002-ux/cyberbullying-app"><img src="./project-cyberbullying-neon.svg" width="49%" alt="Cyberbullying Detection — public Python, Streamlit and machine learning application exploring harmful-text classification. Open repository." /></a>
@@ -38,6 +38,12 @@ Two public projects, connecting online safety with security-focused web design.
   <a href="https://github.com/smriazul2002-ux/cyberbullying-app">Cyberbullying Detection ↗</a> &nbsp; / &nbsp;
   <a href="https://github.com/smriazul2002-ux/smart-cctv-website">Smart CCTV Website ↗</a>
 </p>
+
+### [Secure Office Network Segmentation ↗](https://github.com/smriazul2002-ux/secure-office-network)
+
+Cisco Packet Tracer lab with department VLANs, ACLs, a DMZ, NAT and restricted SSH administration. Includes the `.pkt` project, configuration records, a Word report and validation evidence.
+
+[Explore repository](https://github.com/smriazul2002-ux/secure-office-network) · [Download report](https://github.com/smriazul2002-ux/secure-office-network/raw/refs/heads/main/Network_Segmentation_Report.docx)
 
 <details>
 <summary><strong>Explore the cyberbullying project family</strong></summary>
