@@ -125,3 +125,20 @@ Security practice belongs in owned environments and explicitly authorized labs.
 <p align="center">
   <img src="./profile-footer.svg" width="100%" alt="Learn with intent. Build with care. Python, Linux and security." />
 </p>
+
+
+## Certificates & Learning
+
+### Cisco Networking Academy — Course Completion
+
+| Course | Completed |
+| --- | --- |
+| Networking Basics | 23 October 2026 |
+| Ethical Hacker | 29 October 2026 |
+| Introduction to Cybersecurity | 19 October 2026 |
+
+### Event Participation
+
+**DataScape Summit 2025 — Certificate of Participation**  
+14–18 April 2025 · Lincoln University College, Malaysia  
+Jointly organized by the School of AI Computing and Multimedia, Lincoln University College, and IEEE Computer Society Malaysia Chapter.
