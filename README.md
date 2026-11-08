@@ -142,3 +142,11 @@ Security practice belongs in owned environments and explicitly authorized labs.
 **DataScape Summit 2025 — Certificate of Participation**  
 14–18 April 2025 · Lincoln University College, Malaysia  
 Jointly organized by the School of AI Computing and Multimedia, Lincoln University College, and IEEE Computer Society Malaysia Chapter.
+
+
+### View Certificates
+
+- [Networking Basics — PDF](./Networking_Basics.pdf)
+- [Ethical Hacker — PDF](./Ethical_Hacker.pdf)
+- [Introduction to Cybersecurity — PDF](./Introduction_to_Cybersecurity.pdf)
+- [DataScape Summit 2025 — Participation Certificate](./DataScape_Summit_2025_Participation.png)
